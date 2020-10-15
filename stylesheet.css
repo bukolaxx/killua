@@ -1,0 +1,17 @@
+.profile {
+  width: 10%;
+  height: 10%;
+  border-radius:50%;
+}
+
+.gif {
+  width: 30%;
+  height: 30%;
+}
+
+body {text-align:center;
+  list-style-position:inside;
+  font-family: 'Raleway', sans-serif;
+  background-color:#bca5c5;
+  color:  #ffffff;
+}
